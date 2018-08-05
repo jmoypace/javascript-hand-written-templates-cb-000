@@ -1,6 +1,6 @@
 function addComment() {
   var bodyText = "This research is bold and important!";
-  var commenter = "Definitely not a woodchuck looking to eat the wood";
+  var commenter = "aaa Definitely not a woodchuck looking to eat the wood";
 
   var commentBody = createCommentBody(bodyText);
   var commenterLabel = createCommenterLabel(commenter);
